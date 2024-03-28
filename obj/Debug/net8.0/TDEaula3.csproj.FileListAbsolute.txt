@@ -12,3 +12,4 @@ C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDEaula3\obj\Debug\net8.0\refi
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDEaula3\obj\Debug\net8.0\TDEaula3.pdb
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDEaula3\obj\Debug\net8.0\TDEaula3.genruntimeconfig.cache
 C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDEaula3\obj\Debug\net8.0\ref\TDEaula3.dll
+C:\Users\amand\OneDrive\Área de Trabalho\LabProg\TDEaula3\obj\Debug\net8.0\TDEaula3.sourcelink.json
